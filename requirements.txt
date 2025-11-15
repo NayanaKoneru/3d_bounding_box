@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision
+albumentations
+kornia
+numpy
+pandas
+opencv-python
+pyyaml
+tqdm
+tensorboard
+onnx
+onnxruntime
+torchvision
